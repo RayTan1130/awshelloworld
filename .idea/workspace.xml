@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ca9c4d6-288f-4e29-a5f2-121d552574ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/HelloWorldFunction/build.gradle">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HelloWorldFunction" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1eVhy93L61fBFYhtpODBelXKD7X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="AWS Lambda.[Local] App">
+    <configuration name="[Local] App" type="aws.lambda" factoryName="Local" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:default" />
+      <option name="regionId" value="us-west-2" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" value="helloworld.App" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="1088" />
+      <option name="runtime" value="java8" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" value="{}" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="true" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <configuration name="[Local] HelloWorldFunction" type="aws.lambda" factoryName="Local" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:default" />
+      <option name="regionId" value="us-west-2" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" />
+      <option name="logicalFunctionName" value="HelloWorldFunction" />
+      <option name="memorySize" value="128" />
+      <option name="runtime" />
+      <option name="templateFile" value="$PROJECT_DIR$/template.yaml" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="true" />
+      <option name="input" value="{}" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="true" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="AWS Lambda.[Local] HelloWorldFunction" />
+      <item itemvalue="AWS Lambda.[Local] App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="AWS Lambda.[Local] App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ca9c4d6-288f-4e29-a5f2-121d552574ee" name="Default Changelist" comment="" />
+      <created>1594412918434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594412918434</updated>
+      <workItem from="1594412919937" duration="315000" />
+      <workItem from="1594414520284" duration="1848000" />
+      <workItem from="1594658863783" duration="960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="40" key="#[Local]_App" timestamp="1594413002577">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="568" y="40" key="#[Local]_App/0.0.1920.1080@0.0.1920.1080" timestamp="1594413002577" />
+    <state x="424" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594659837809">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594659837809" />
+    <state width="1868" height="265" key="GridCell.Tab.0.bottom" timestamp="1594426803297">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1868" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594414635182" />
+    <state width="1868" height="265" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1594426803297" />
+    <state width="1868" height="265" key="GridCell.Tab.0.center" timestamp="1594426803296">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1868" height="457" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594414635181" />
+    <state width="1868" height="265" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1594426803296" />
+    <state width="1868" height="265" key="GridCell.Tab.0.left" timestamp="1594426803296">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1868" height="457" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594414635180" />
+    <state width="1868" height="265" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1594426803296" />
+    <state width="1868" height="265" key="GridCell.Tab.0.right" timestamp="1594426803296">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1868" height="457" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594414635181" />
+    <state width="1868" height="265" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1594426803296" />
+    <state x="308" y="77" key="SettingsEditor" timestamp="1594420664008">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="308" y="77" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594420664008" />
+    <state x="541" y="252" width="838" height="1032" key="run.anything.popup" timestamp="1594414570243">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="541" y="252" width="838" height="1032" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594414570243" />
+  </component>
+</project>

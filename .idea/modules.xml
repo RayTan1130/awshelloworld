@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1867496525/HelloWorldFunction.iml" filepath="$PROJECT_DIR$/.idea/modules/1867496525/HelloWorldFunction.iml" group="HelloWorldFunction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1867496525/HelloWorldFunction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1867496525/HelloWorldFunction_main.iml" group="HelloWorldFunction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1867496525/HelloWorldFunction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1867496525/HelloWorldFunction_test.iml" group="HelloWorldFunction" />
+      <module fileurl="file://$PROJECT_DIR$/testhelloworld.iml" filepath="$PROJECT_DIR$/testhelloworld.iml" />
+    </modules>
+  </component>
+</project>
