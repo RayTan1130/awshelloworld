@@ -12,7 +12,7 @@ phases:
     commands:
       - echo build started on `date`
       - export BUCKET=codetestpipeline
-      - ./gradle build
+      - gradle build
 #      - mvn package shade:shade
       - unzip tmp/HelloWorld-1.0.jar
       - aws cloudformation package --template-file template.yaml --s3-bucket $BUCKET --output-template-file outputtemplate.yaml

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ca9c4d6-288f-4e29-a5f2-121d552574ee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +141,7 @@
       <workItem from="1594412919937" duration="315000" />
       <workItem from="1594414520284" duration="1848000" />
       <workItem from="1594658863783" duration="960000" />
-      <workItem from="1594662409012" duration="3021000" />
+      <workItem from="1594662409012" duration="3279000" />
     </task>
     <servers />
   </component>
