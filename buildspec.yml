@@ -14,13 +14,13 @@ phases:
       - export BUCKET=codetestpipeline
       - gradle build
 #      - mvn package shade:shade
-      - unzip tmp/HelloWorld-1.0.jar
+      - unzip target/HelloWorld-1.0.jar
       - aws cloudformation package --template-file template.yaml --s3-bucket $BUCKET --output-template-file outputtemplate.yaml
   post_build:
     commands:
       - echo build completed on `date` !!!
 artifacts:
   files:
-    - tmp/HelloWorld-1.0.jar
+    - target/HelloWorld-1.0.jar
     - template.yaml
     - outputtemplate.yaml
