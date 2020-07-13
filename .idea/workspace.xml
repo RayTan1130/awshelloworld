@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ca9c4d6-288f-4e29-a5f2-121d552574ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/jb-hello-world-0.1.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
     </list>
@@ -48,6 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,6 +57,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib" />
+    </key>
   </component>
   <component name="RunManager" selected="AWS Lambda.[Local] App">
     <configuration name="[Local] App" type="aws.lambda" factoryName="Local" temporary="true" nameIsGenerated="true">
@@ -142,7 +149,7 @@
       <workItem from="1594412919937" duration="315000" />
       <workItem from="1594414520284" duration="1848000" />
       <workItem from="1594658863783" duration="960000" />
-      <workItem from="1594662409012" duration="3613000" />
+      <workItem from="1594662409012" duration="5253000" />
     </task>
     <servers />
   </component>
