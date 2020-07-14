@@ -14,13 +14,13 @@ phases:
       - export BUCKET=codepipeline-us-west-1-720803681094
       - gradle build
 #      - mvn package shade:shade
-#      - unzip ./src/main/.aws-sam/build/Function/lib/jb-hello-world-0.1.0.jar
+      - unzip ./src/main/.aws-sam/build/Function/lib/jb-hello-world-0.1.0.jar
       - aws cloudformation package --template-file template.yaml --s3-bucket $BUCKET --output-template-file outputtemplate.yaml
   post_build:
     commands:
       - echo build completed on `date` !!!
 artifacts:
   files:
-#    - ./src/main/.aws-sam/build/Function/lib/jb-hello-world-0.1.0.jar
+    - ./src/main/.aws-sam/build/Function/lib/jb-hello-world-0.1.0.jar
     - template.yaml
     - outputtemplate.yaml
