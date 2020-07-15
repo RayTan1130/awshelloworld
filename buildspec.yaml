@@ -12,8 +12,8 @@ phases:
     commands:
       - echo build started on `date`
       - export BUCKET=codepipeline-us-west-1-720803681094
-#      - gradle build
-      - ./gradlew build
+      - gradle build
+#      - ./gradlew build
 #      - mvn package shade:shade
 #      - unzip build/libs/HelloWorldFunction.jar
       - aws cloudformation package --template-file template.yaml --s3-bucket $BUCKET --output-template-file outputtemplate.yaml
